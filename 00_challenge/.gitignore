@@ -33,3 +33,5 @@
 
 # Others
 *.txt
+*.idea
+cmake-build-debug
